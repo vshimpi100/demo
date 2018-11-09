@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    color: lightgray;
+    background-color: #333333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding: 1px;
+}
+.content {
+    display:flex;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.aboutInfo{
+    display:flex;
+    vertical-align: bottom;
+}
+.about {
+    flex:2;
+}
+.contact {
+    flex:1;
+    margin-left: 30px;
+}
+img{
+    width: ;
+    height: 150px;
+    margin-right: 20px;
+}
+a{
+    color: #c6455b;
+}
